@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jy8938shi-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jy8938shi-nodejs
